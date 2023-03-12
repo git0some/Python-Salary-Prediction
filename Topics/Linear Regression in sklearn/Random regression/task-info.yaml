@@ -1,0 +1,15 @@
+type: dataset
+files:
+- name: main.py
+  visible: true
+  text: "#  write your code here \n\n"
+  learner_created: false
+- name: hyperskill-dataset-78205731.txt
+  visible: true
+  learner_created: true
+- name: dataset_0000.txt
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/15043#comment
+status: Unchecked
+record: -1
